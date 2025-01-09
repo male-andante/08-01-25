@@ -23,7 +23,8 @@
 }
 
 .card{
-    width: 18rem;
+    /*width: 18rem;*/
+    width: 100%;
 }
 
 /*.card h6{
@@ -34,13 +35,9 @@
 
 /*  SEZIONE ALBUM  */
 
-#hero-image{
-    
-}
-
 .img-fluid{
     width: 100%;
-    height: 30vh;
+    height: 60vh;
     object-fit: cover;
 }
 
